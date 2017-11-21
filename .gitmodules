@@ -1,0 +1,4 @@
+[submodule "WFObs"]
+	path = WFObs
+	url = https://github.com/TUDelft-DataDrivenControl/WFObs
+	branch = cov
